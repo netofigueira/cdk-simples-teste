@@ -19,7 +19,7 @@ setuptools.setup(
     packages=setuptools.find_packages(where="bootcamp_cdk"),
 
     install_requires=[
-        "aws-cdk.core==1.92.0",
+        "aws-cdk.core==1.93.0",
     ],
 
     python_requires=">=3.6",

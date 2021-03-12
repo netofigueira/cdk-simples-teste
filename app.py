@@ -10,7 +10,6 @@ from aws_cdk import core
 
 from bootcamp_cdk.bootcamp_cdk_stack import BootcampCdkStack
 
-
 app = cdk.App()
 BootcampCdkStack(app, "bootcamp-cdk")
 
